@@ -1,0 +1,2 @@
+Host: https://aviator-venture.com/
+Sitemap: https://aviator-venture.com/sitemap.xml
